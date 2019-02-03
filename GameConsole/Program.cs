@@ -10,11 +10,24 @@ namespace GameConsole
     {
         static void Main(string[] args)
         {
-            var player = new PlayerCharacter();
-            player.Name = "";
-            player.DaysSinceLastLogin = 42;
+            PlayerCharacter sarah = new PlayerCharacter(new DiamondSkinDefence())
+            {
+                Name = "Sarah"
+            };
 
-            PlayerDisplayer.Write(player);
-        }
+            PlayerCharacter amrit = new PlayerCharacter(SpecialDefence.Null)
+            {
+                Name = "Amrit"
+            };
+
+            PlayerCharacter gentry = new PlayerCharacter(SpecialDefence.Null)
+            {
+                Name = "Gentry"
+            };
+
+            sarah.Hit(10);
+            amrit.Hit(10);
+            gentry.Hit(10);
+        }            
     }
 }

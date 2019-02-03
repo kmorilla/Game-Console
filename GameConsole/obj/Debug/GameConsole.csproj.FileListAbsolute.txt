@@ -5,3 +5,10 @@ D:\GitHub\GameConsole\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.
 D:\GitHub\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
 D:\GitHub\GameConsole\GameConsole\obj\Debug\GameConsole.exe
 D:\GitHub\GameConsole\GameConsole\obj\Debug\GameConsole.pdb
+D:\GitHub\Game-Console\GameConsole\bin\Debug\GameConsole.exe.config
+D:\GitHub\Game-Console\GameConsole\bin\Debug\GameConsole.exe
+D:\GitHub\Game-Console\GameConsole\bin\Debug\GameConsole.pdb
+D:\GitHub\Game-Console\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+D:\GitHub\Game-Console\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+D:\GitHub\Game-Console\GameConsole\obj\Debug\GameConsole.exe
+D:\GitHub\Game-Console\GameConsole\obj\Debug\GameConsole.pdb
